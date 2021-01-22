@@ -1,0 +1,10 @@
+body
+{
+    background-color: rgb(148, 143, 143);}
+    hr {border-color: rgb(41, 2, 10);
+    border-width: 5px;
+        border-style: dotted none none;
+    width: 5%;}
+    h1 {
+        text-shadow: 2px 2px 5px red;
+      }
